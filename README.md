@@ -1,71 +1,94 @@
-# Hi 👋 I'm Samit Malap
+# Samit Malap
 
-🎓 Engineering Student | 💻 Full Stack Developer (MERN) | 🧠 SQL & Image Classification Enthusiast  
+**Engineering Student | Backend-Focused Full Stack Developer (MERN)**
 
-I am a motivated software developer with a solid foundation in **web development, backend systems, and database management**.  
-I focus on writing **clean, efficient code** and enjoy learning technologies that solve real-world problems.
+I am a driven software developer with a strong foundation in **backend development, database design, and SQL-driven applications**. I enjoy building **scalable, data-centric systems** and writing **clean, maintainable code** that solves practical problems.
+
+My primary focus is on **backend logic, database optimization, and system flow**, with hands-on experience using the MERN stack. I also explore **image-based machine learning systems**, especially in real-world domains such as agriculture and image quality validation.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🧩 Core Skills at a Glance
+
+* Backend development with **Node.js & Express**
+* Strong command of **SQL and relational databases**
+* REST API design and system flow understanding
+* MERN stack application development
+* Image classification using CNNs
+
+---
+
+## 🛠️ Technology Stack
 
 ### 🌐 Frontend
-HTML5, CSS3, JavaScript
-React.js
-Responsive Web Design
+
+* HTML5, CSS3, JavaScript
+* React.js
+* Responsive Web Design
 
 ### ⚙️ Backend
-Node.js
-Express.js
-RESTful APIs
 
-### 🗄️ Database & SQL
-MySQL
-MongoDB
-Strong command over SQL queries
-Joins, Subqueries, Aggregations, Constraints
-Query optimization basics
-**HackerRank SQL (Intermediate) Certified**
+* Node.js
+* Express.js
+* RESTful API Development
+
+### 🗄️ Databases & SQL *(Primary Strength)*
+
+* MySQL
+* MongoDB
+* Advanced SQL queries
+* Joins, Subqueries, Aggregations
+* Constraints & normalization
+* Query optimization fundamentals
+* **HackerRank SQL (Intermediate) Certified**
 
 ### 🧠 Machine Learning & AI
-Python (basic)
-CNN for Image Classification
-Understanding of VGG16
-Image quality and validation concepts
-Model training using GPU (PyTorch)
 
-### 🛠️ Tools & Platforms
-Git & GitHub
-VS Code
-Google Colab
-Postman
+* Python (foundational)
+* Convolutional Neural Networks (CNN)
+* VGG16 architecture understanding
+* Image quality validation
+
+### 🧰 Tools & Platforms
+
+* Git & GitHub
+* VS Code
+* Postman
+* Google Colab
+
+---
 
 
 ## 📚 Currently Learning
-Advanced Java (OOP, static vs non-static, strings, arrays)
-Advanced SQL concepts
-Backend logic and system flow
-Interview preparation (Coding, SQL, Communication)
+
+* Advanced Java (OOP, static vs non-static, strings, arrays)
+* Advanced SQL and database internals
+* Backend architecture and system design basics
+* Coding interviews (SQL, backend logic, communication)
 
 
 ## 🎯 Areas of Interest
-Database-driven applications
-Smart Agriculture & Image-based Systems
-Practical Machine Learning with Web Applications
+
+* Database-driven backend systems
+* Smart agriculture solutions
+* Image-based validation and classification
+* Practical machine learning with web applications
 
 
 ## 💡 Strengths
-Strong SQL and database fundamentals
-Backend-oriented problem solving
-Good understanding of MERN stack
-Consistent learner with interview focus
-Ability to quickly adapt to new technologies
+
+* Strong SQL and database fundamentals
+* Backend-oriented thinking and debugging
+* Clear understanding of MERN stack workflow
+* Consistent learner with interview readiness
+* Ability to adapt quickly to new tools and concepts
 
 ---
 
+
 ## 📫 Connect With Me
-> GitHub: https://github.com/SamitMalap27
-> LinkedIn: https://www.linkedin.com/in/samit-malap-20528b213/
 
+* **GitHub:** [https://github.com/SamitMalap27](https://github.com/SamitMalap27)
+* **LinkedIn:** [https://www.linkedin.com/in/samit-malap-20528b213/](https://www.linkedin.com/in/samit-malap-20528b213/)
 
-⭐ Focused on building strong fundamentals and real-world skills.
+---
